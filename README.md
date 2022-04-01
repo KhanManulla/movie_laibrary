@@ -7,11 +7,11 @@ public we can share to other just copy link and share to anyone who has the
 link can see the playlist but private playlist are not visible to anyone and we
 can't share the playlist.
 
-process of using the movie laibrary management system
-step 1. Sign-up using Email-Mail and password.
-step 2. login using email and password
-step 3. visit playlist tab and click on add enter playlist name and select visibility save.
-step 4. open index page search any movie and click on add playlist select playlist and save.
+# process of using the movie laibrary management system
+    1. Sign-up using Email-Mail and password.
+    2. login using email and password
+    3. visit playlist tab and click on add enter playlist name and select visibility save.
+    4. open index page search any movie and click on add playlist select playlist and save.
 
 # SYSTEM REQUIREMENT
     1.PHP,MYSQL
